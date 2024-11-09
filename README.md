@@ -1,0 +1,2 @@
+- Hi, I'm @Will-Sanz. I am a current sophomore at the University of Pennsylvania.
+- I am majoring in computer science with a concentration in AI and pursuing minors in data science, mathematics, and engineering entrepreneurship.
